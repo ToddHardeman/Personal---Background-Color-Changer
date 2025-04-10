@@ -1,8 +1,14 @@
 body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
     font: times;
-    display: grid;
     background-image: linear-gradient(to right, black, white);
 }
 #Title {
+    color: white;
+}
+#subTitle {
     color: white;
 }
