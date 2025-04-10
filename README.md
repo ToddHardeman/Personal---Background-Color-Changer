@@ -6,6 +6,7 @@ A simple tool to randomly change the background color of a webpage.
 
 - Click a button to generate a random background color
 - Smooth color transition effect
+- Applies a random color to the gradient without changing the entire gradient
 
 ## How to Use
 
