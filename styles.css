@@ -1,0 +1,8 @@
+body {
+    font: times;
+    display: grid;
+    background-image: linear-gradient(to right, black, white);
+}
+#Title {
+    color: white;
+}
