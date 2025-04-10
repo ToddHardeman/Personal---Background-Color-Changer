@@ -9,13 +9,12 @@ body {
     background-image: linear-gradient(to right, black, white);
 }
 #Title {
-    color: white;
     font-weight: bolder;
     font-size: xx-large;
     background-image: linear-gradient(to right, white, black);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    
+    -webkit-text-stroke: .3px black;
 }
 #subTitle {
     color: white;
